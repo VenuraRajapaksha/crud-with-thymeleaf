@@ -1,0 +1,13 @@
+package com.venura.crudthyme;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CrudthymeApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
